@@ -18,4 +18,8 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\BoardGameHub.Domain\BoardGameHub.Domain.csproj" />
+  </ItemGroup>
+
 </Project>
